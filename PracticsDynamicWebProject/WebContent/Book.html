@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+<pre>
+	<form action="savebook" method="get" >
+	Enter bookid:<input type="number" name="id"/>
+	Enter bookName:<input type="text" name="bname"/>
+	Enter bookCost:<input type="number" placeholder="In rupees" name="bcost"/>
+	<input type="submit" value="save">	
+	</form>
+	
+	<form action="savebook" method="post">
+	Select bookid to search:
+	<select name="idsearch">
+		<option value=1>1</option>
+		<option value=2>2</option>
+		<option value=3>3</option>
+		<option value=4>4</option>
+		<option value=5>5</option>
+	</select>
+	<input type="submit" value="search"> 
+	</form>
+</pre>
+</body>
+</html>

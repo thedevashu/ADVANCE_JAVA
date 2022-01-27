@@ -1,0 +1,79 @@
+package com.java.miniproject.entity;
+
+import javax.persistence.Column;
+import javax.persistence.Entity;
+
+@Entity(name= "user_info")
+
+public class User {
+	@Column(name="user_id")
+	private int id;
+	@Column(name="user_fname")
+	private String fname;
+	@Column(name="user_lname")
+	private String lname;
+	@Column(name="user_mobileNo")
+	private String mobileNo;
+	@Column(name="user_emailId")
+	private String emailId;
+	@Column(name="user_uname")
+	private String uname;
+	@Column(name="user_pass")
+	private String pass;
+	
+	public User(int id, String fname, String lname, String mobileNo, String emailId, String uname, String pass) {
+		super();
+		this.id = id;
+		this.fname = fname;
+		this.lname = lname;
+		this.mobileNo = mobileNo;
+		this.emailId = emailId;
+		this.uname = uname;
+		this.pass = pass;
+	}
+	public int getId() {
+		return id;
+	}
+	public void setId(int id) {
+		this.id = id;
+	}
+	public String getFname() {
+		return fname;
+	}
+	public void setFname(String fname) {
+		this.fname = fname;
+	}
+	public String getLname() {
+		return lname;
+	}
+	public void setLname(String lname) {
+		this.lname = lname;
+	}
+	public String getMobileNo() {
+		return mobileNo;
+	}
+	public void setMobileNo(String mobileNo) {
+		this.mobileNo = mobileNo;
+	}
+	public String getEmailId() {
+		return emailId;
+	}
+	public void setEmailId(String emailId) {
+		this.emailId = emailId;
+	}
+	public String getUname() {
+		return uname;
+	}
+	public void setUname(String uname) {
+		this.uname = uname;
+	}
+	public String getPass() {
+		return pass;
+	}
+	public void setPass(String pass) {
+		this.pass = pass;
+	}
+	
+	
+	
+}

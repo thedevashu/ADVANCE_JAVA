@@ -1,0 +1,9 @@
+package com.java.miniproject.dao;
+
+public class HibernateDao {
+
+	public HibernateDao() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

@@ -1,0 +1,19 @@
+
+Jan 08, 2022 16:51:01.52 NEW SESSION
+Jan 08, 2022 16:51:01.53 [12332:3216:0108/165100.146:ERROR:network_service_instance_impl.cc(916)] Network service crashed, restarting service.
+Jan 08, 2022 16:51:04.59 [12332:2884:0108/165104.536:ERROR:chrome_browser_main_extra_parts_metrics.cc(226)] crbug.com/1216328: Checking Bluetooth availability started. Please report if there is no report that this ends.
+Jan 08, 2022 16:51:05.15 [12332:2884:0108/165105.156:ERROR:chrome_browser_main_extra_parts_metrics.cc(229)] crbug.com/1216328: Checking Bluetooth availability ended.
+Jan 08, 2022 16:51:05.15 [12332:2884:0108/165105.156:ERROR:chrome_browser_main_extra_parts_metrics.cc(232)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+Jan 08, 2022 16:51:05.35 [12332:2884:0108/165105.158:ERROR:chrome_browser_main_extra_parts_metrics.cc(236)] crbug.com/1216328: Checking default browser status ended.
+Jan 08, 2022 16:51:16.13 [12332:3216:0108/165115.411:ERROR:device_event_log_impl.cc(214)] [16:51:15.411] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Jan 08, 2022 16:51:16.13 [12332:3216:0108/165115.411:ERROR:device_event_log_impl.cc(214)] [16:51:15.412] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Jan 08, 2022 16:51:16.17 [12332:3216:0108/165115.412:ERROR:device_event_log_impl.cc(214)] [16:51:15.412] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Jan 08, 2022 16:51:32.28 [12332:3216:0108/165132.226:ERROR:device_event_log_impl.cc(214)] [16:51:32.226] Bluetooth: bluetooth_adapter_winrt.cc:1165 RequestRadioAccessAsync failed: RadioAccessStatus::DeniedByUserWill not be able to change radio power.
+Jan 08, 2022 17:39:24.73 [12332:7384:0108/173922.820:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Jan 08, 2022 17:39:51.39 [12332:7384:0108/173951.391:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Jan 08, 2022 17:40:42.81 [12332:7384:0108/174042.809:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Jan 08, 2022 17:42:41.17 [12332:7384:0108/174241.170:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Jan 08, 2022 17:45:41.93 [12332:7384:0108/174541.937:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Jan 08, 2022 17:51:24.05 [12332:7384:0108/175123.849:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Jan 08, 2022 18:01:23.88 [12332:7384:0108/180123.857:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Jan 08, 2022 18:11:23.88 [12332:7384:0108/181123.866:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106

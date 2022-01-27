@@ -1,0 +1,5 @@
+1640872796463	Move 'web.xml' to 'lib'
+1640872938463	Move 'page.jsp' to 'META-INF'
+1640872954372	Move 'web.xml' to 'WEB-INF'
+1640872965478	Move 'page.jsp' to 'WebContent'
+1640874722981	Rename resource 'page.jsp'
